@@ -1,5 +1,4 @@
-# EXTRACTO DE UNA CARTA ESCRITA[^1] EN EL MES DE 
-NOVIEMBRE DE 1715
+# EXTRACTO DE UNA CARTA ESCRITA[^1] EN EL MES DE NOVIEMBRE DE 1715
 
 [^1]: A la Princesa Carolina de Gales.
 
@@ -31,8 +30,8 @@ siempre y solamente pasa de una materia a otra siguiendo las
 leyes de la naturaleza y del buen orden establecido. Y yo sostengo
 que cuando Dios hace milagros, no los hace por mantener
 las necesidades de la naturaleza, sino las de la gracia. Juzgar
-esto de otra manera sería tener una idea muy baja de la sabidu-
-ría y del poder de Dios.
+esto de otra manera sería tener una idea muy baja de la sabiduría
+y del poder de Dios.
 
 [^3]: **Optica**, Cuestión 31, p. 348, «...formando y reformando las partes
 del universo»; y líneas antes se encuentra la frase relativa al «sensorio».
