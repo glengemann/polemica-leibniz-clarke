@@ -2,7 +2,7 @@
 
 [^1]: Enviada el 26 de noviembre de 1715.
 
-**1** Es verdad, y también muy lamentable, que, tanto en
+**§1** Es verdad, y también muy lamentable, que, tanto en
 Inglaterra como en otros países, hay quienes niegan e incluso
 corrompen la religión natural misma. Pero (dejando aparte depravadas
 afecciones de los hombres) esto sucede por estar adscritos
@@ -15,14 +15,14 @@ matemáticos de la filosofía, los cuales, y sólo
 ellos, prueban que la materia o cuerpo son la parte más pequeña
 e inapreciable del universo.
 
-**2** Justamente puede sospecharse a partir de algunas partes
+**§2** Justamente puede sospecharse a partir de algunas partes
 de sus escritos que Mr. Locke dudó de si el espíritu es inmaterial
 o no. Pero en esto ha sido seguido solamente por algunos materialistas
 enemigos de los principios matemáticos de la filosofía
 y que están de acuerdo con poco o nada de los escritos de
 Mr. Locke, excepto con sus errores.
 
-**3** Sir Isaac Newton no dice que el espacio es el órgano del
+**§3** Sir Isaac Newton no dice que el espacio es el órgano del
 cual Dios se sirve para percibir las cosas, ni que necesite de
 ningún medio a través del cual percibir las cosas, sino que, por
 el contrario, siendo omnipresente, percibe todas las cosas por su
@@ -55,7 +55,7 @@ existe la afirmación de la cuestión 31 que dice también, y más tajantemente,
 «(Dios) es mucho más capaz de mover con su voluntad los cuerpos que se
 hallan en su sensorio uniforme e ilimitado...».
 
-**4** La razón por la que un artífice es considerado, entre los
+**§4** La razón por la que un artífice es considerado, entre los
 hombres, justamente como el más diestro, cuando la máquina que
 ha fabricado sigue funcionando regularmente durante más tiempo
 sin ulterior injerencia del artífice, es que la habilidad de todos

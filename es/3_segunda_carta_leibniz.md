@@ -1,6 +1,6 @@
 # SEGUNDA CARTA DE LEIBNIZ
 
-**1** Tienen razón al decir en la carta enviada a la Princesa
+**§1** Tienen razón al decir en la carta enviada a la Princesa
 de Gales, y que Su Alteza Real me ha hecho la gracia de remitir,
 que al lado de las pasiones viciosas los principios de los materialistas
 contribuyen en gran medida a mantener la impiedad. Mas
@@ -62,7 +62,7 @@ el mismo punto es centro de gravedad también de la magnitud restante.»
 (Hay trad. castellana de este tratado de Cora Ratto, EUDEBA, 1966.
 Buenos Aires, p. 35.)
 
-**2** Se continúa diciendo que según los principios matemáticos,
+**§2** Se continúa diciendo que según los principios matemáticos,
 es decir, según la filosofía de M. Newton (pues los principios
 matemáticos no deciden aquí nada), la materia es la parte
 menos considerable del Universo. Y es que él admite, además de
@@ -76,7 +76,7 @@ cuanto más materia hay, más tiene Dios la ocasión de ejercer su
 sabiduría y su poder, y es por eso, entre otras razones, por lo
 que yo sostengo que no hay vacío en absoluto.
 
-**3** Se encuentra expresamente en el Apéndice de la Optica
+**§3** Se encuentra expresamente en el Apéndice de la Optica
 de M. Newton que el espacio es el *sensorium* de Dios[^2]. Siendo
 así que la palabra *sensorium* ha significado siempre el órgano
 de la sensación, permítasele a él y a sus amigos explicarse ahora
@@ -94,7 +94,7 @@ contexto del «sensorio» en el texto de la cuestión 31 de la *Optica*. Esto
 podría ser un indicio. En todo caso, véase la nota 37 al Libro III , parte I ,
 de la traducción Solís de la *Optica*, pp. 431-35.
 
-**4** Se supone que la presencia del alma basta para que ésta
+**§4** Se supone que la presencia del alma basta para que ésta
 perciba lo que pasa en el cerebro. Pero es esto precisamente lo
 que el padre Mallebranche y toda la escuela cartesiana niega.
 Y tienen razón al negarlo. Es necesaria otra cosa más que la sola
@@ -111,7 +111,7 @@ imaginar en el cuerpo, no estaría más que en un punto,
 punto? Yo pretendo ser el primero que ha demostrado cómo el
 alma percibe lo que ocurre en el cuerpo.
 
-**5** La razón por la que Dios percibe todo no es su simple
+**§5** La razón por la que Dios percibe todo no es su simple
 presencia, sino su operación, el hecho de que él conserva las cosas
 por una acción que produce continuamente aquello que hay
 de bondad y de perfección en ellas. Pero en el caso de las almas,
@@ -119,7 +119,7 @@ no teniendo ninguna influencia inmediata sobre el cuerpo, ni los
 cuerpos sobre las almas, su mutua correspondencia no sería explicable
 por la presencia.
 
-**6** La verdadera razón que hace alabar principalmente una
+**§6** La verdadera razón que hace alabar principalmente una
 máquina se toma más bien del efecto de la máquina que de su
 causa. No se habla tanto de la potencia del maquinista como de
 la de su artefacto. Así la razón que se alega para alabar a la máquina
@@ -141,7 +141,7 @@ el don de ajustarlas correctamente. Igualmente aquel que
 desea estar satisfecho de la obra de Dios, no lo estará por la sola
 razón que se nos alega.
 
-**7** Así que es preciso que el artefacto de Dios no sea inferior
+**§7** Así que es preciso que el artefacto de Dios no sea inferior
 al de un obrero. Es preciso que vaya infinitamente más allá.
 La simple producción de todo sería una clara prueba del poder
 de Dios, pero no resaltaría bastante su sabiduría. Aquellos que
@@ -150,14 +150,16 @@ materialistas y de Spinoza, de quienes confiesan alejarse. Reconocerán
 el poder, pero no la suficiente sabiduría en el principio
 de las cosas.
 
-**8** Yo no digo en absoluto que el mundo corporal sea una
+**§8** Yo no digo en absoluto que el mundo corporal sea una
 máquina o reloj que funciona sin la intervención de Dios, sino
 que opino que las criaturas tienen necesidad de su continua influencia,
 pero sostengo que es un reloj que funciona sin tener
-necesidad de corrección; de otra manera, sería decir que Dios seequivoca. Dios ha previsto todo, ha puesto remedio a todo poradelantado. Hay en sus obras una armonía, una belleza preestatablecida
+necesidad de corrección; de otra manera, sería decir que Dios se
+equivoca. Dios ha previsto todo, ha puesto remedio a todo por
+adelantado. Hay en sus obras una armonía, una belleza preestatablecida
 desde siempre.
 
-**9** Esta opinión no excluye la providencia o gobierno de
+**§9** Esta opinión no excluye la providencia o gobierno de
 Dios; por el contrario, los hace perfectos. Una verdadera providencia
 de Dios reclama una perfecta previsión: pero por lo demás
 exige no sólo que haya previsto todo, sino también que
@@ -182,13 +184,13 @@ en la divinidad de Cristo y tampoco, por supuesto, en la interpretación
 eclesiástica de la Biblia. Creen en la bondad natural del hombre y abren
 el camino del naturalismo y del librepensamiento de los siglos XVII-XVIII.
 
-**10** No creo que se me pueda acusar con razón por haber
+**§10** No creo que se me pueda acusar con razón por haber
 dicho que Dios es Inteligencia Supramundana. Aquellos que lo
 desaprueban ¿dirán que es Inteligencia mundana, es decir, que
 es el alma del mundo? Espero que no. Entretanto harán bien
 en cuidarse de decirlo sin pensarlo.
 
-**11** La comparación con un rey con el que todo funcionara
+**§11** La comparación con un rey con el que todo funcionara
 sin que él interviniese no viene a cuento, puesto que Dios conserva
 siempre las cosas, las cuales no podrían subsistir sin él.
 Así, su reino no es nominal. Es justamente como si dijéramos de
@@ -197,7 +199,7 @@ tan bien en su capacidad y buena voluntad gracias al cuidado
 que habría tomado por su subsistencia que no tuviera necesidad
 de corregirlos, que es un rey solamente de nombre.
 
-**12** En fin, si Dios está obligado a corregir las cosas naturales
+**§12** En fin, si Dios está obligado a corregir las cosas naturales
 de vez en cuando, es necesario que eso se haga o sobrenaturalmente
 o naturalmente; si ello se hace sobrenaturalmente,
 hay que recurrir al milagro para explicar las cosas naturales, lo
