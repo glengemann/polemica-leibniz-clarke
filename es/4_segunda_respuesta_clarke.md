@@ -67,7 +67,7 @@ sus partes impulsadas de una a otra es imaginarlas impulsadas
 fuera de si mismas)[^2] y, con todo, el espacio no es un mero
 punto.
 
-[^2] Clarke, en su edición, cita aqui el Escolio a la Definición 8va de los
+[^2]: Clarke, en su edición, cita aqui el Escolio a la Definición 8va de los
 *Principia* en el punto en que dice: «Como el orden de las partes del tiempo
 es inmutable, así también lo es el orden de las partes del espacio. Muévanse
 éstas de sus lugares y serán movidas (por así decirlo) de sí mismas.»
