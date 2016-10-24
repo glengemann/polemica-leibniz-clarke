@@ -2,42 +2,42 @@
 
 ## REPLICA AL TERCER ESCRITO INGLES[^1]
 
-[^1] Remitida junto con una carta de fecha 2 de junio de 1716.
+[^1]: Remitida junto con una carta de fecha 2 de junio de 1716.
 
-**1** En las cosas absolutamente indiferentes, no hay opción
+**§1** En las cosas absolutamente indiferentes, no hay opción
 en absoluto y, en consecuencia, ninguna elección ni voluntad,
 puesto que la elección debe tener alguna razón o principio.
 
-**2** Una simple voluntad sin ningún motivo (a mere will) es
+**§2** Una simple voluntad sin ningún motivo (a mere will) es
 una ficción no solamente contraria a la perfección de Dios, sino
 incluso quimérica y contradictoria, incompatible con la definición
 de voluntad, y suficientemente refutada en la *Teodicea*.
 
-**3** Es indiferente colocar tres cuerpos iguales y en todo parecidos,
+**§3** Es indiferente colocar tres cuerpos iguales y en todo parecidos,
 en el orden que se quiera y, en consecuencia, no serán
 nunca ordenados por aquel que no hace nada sin sabiduría. Pero
 siendo también autor de las cosas, no los producirá y, en consecuencia,
 no los habrá en la naturaleza.
 
-**4** No hay dos individuos indiscernibles. Un caballero de
+**§4** No hay dos individuos indiscernibles. Un caballero de
 alcurnia amigo mío, hablando conmigo en presencia de Mme. la
 Electora[^2] en el jardin de Herrenhausen[^3], creyó que encontraría
 fácilmente dos hojas enteramente iguales. Mme. la Electora le
 desafió, y en vano corrió a buscarlas durante largo rato. Dos gotas
 de agua o de leche, miradas por el microscopio, serán discernibles.
 Es un argumento contra los átomos, que no son menos combatidos
-que el vacío por los principios de la Verdadera metafísica.
+que el vacío por los principios de la verdadera metafísica.
 
-[^2] La Electora de Hannover, Sofia, era la madre de Jorge I de Inglaterra.
+[^2]: La Electora de Hannover, Sofia, era la madre de Jorge I de Inglaterra.
 
-[^3] Residencia de los Electores.
+[^3]: Residencia de los Electores.
 
-**5** Esos grandes principios de «razón suficiente» y de «identidad
+**§5** Esos grandes principios de «razón suficiente» y de «identidad
 de los indiscernibles» cambian el estado de la metafísica,
 la cual por medio de ellos se vuelve real y demostrativa, mientras
 que antaño apenas consistía más que en términos vacíos.
 
-**6** Proponer dos cosas indiscernibles es proponer la misma
+**§6** Proponer dos cosas indiscernibles es proponer la misma
 cosa bajo dos nombres. Así, la hipótesis de que el universo hubiera
 podido tener primero otra posición en el tiempo y en el
 espacio que la que ha llegado efectivamente a tener y de que,
@@ -45,16 +45,16 @@ por tanto, todas las partes del universo habrían tenido la misma
 posición entre ellas que la que han recibido en efecto, es una
 ficción imposible.
 
-**7** La misma razón que hace que el espacio fuera del mundo
+**§7** La misma razón que hace que el espacio fuera del mundo
 sea imaginario prueba que todo espacio vacío es una cosa
 imaginaria, pues no diﬁeren más que de grande a pequeño.
 
-**8** Si el espacio es una propiedad o un atributo, debe ser la
+**§8** Si el espacio es una propiedad o un atributo, debe ser la
 propiedad de alguna sustancia. El espacio vacío limitado, que sus
 defensores suponen entre dos cuerpos, ¿de qué sustancia sería
-la propiedad o la afección?
+la propiedad o la afección?.
 
-**9** Si el espacio inﬁnito es la inmensidad, el espacio finito
+**§9** Si el espacio inﬁnito es la inmensidad, el espacio finito
 será lo contrario de la inmensidad, es decir, la mensurabilidad
 o la extensión limitada. Mas la extensión debe ser la afección
 de un extenso. Pero si este espacio está vacio, será un atributo
@@ -62,7 +62,7 @@ sin sujeto, una extensión de ningún extenso. Es por ello por lo
 que, haciendo del espacio una propiedad, se viene a coincidir con
 mi opinión, que hace de él un orden de cosas y no algo absoluto.
 
-**1O** Si el espacio es una realidad absoluta, bien lejos de
+**§1O** Si el espacio es una realidad absoluta, bien lejos de
 ser una propiedad o accidentalidad opuesta a la sustancia, será
 más subsistente que las sustancias. Dios no podría destruirlo
 ni cambiarlo en nada. Es no solamente inmenso en el todo, sino
@@ -402,5 +402,3 @@ opinión no es demasiado grande para superarla. Si lo que acabo
 de decir no está bastante claro, no servirá de nada quererlo aclarar.
 He cumplido con mi deber, y la conciencia de cada uno regulará
 el suyo.
-
-

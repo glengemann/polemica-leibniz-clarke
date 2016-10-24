@@ -116,7 +116,7 @@ animales es improcedente, pues quitarían el sitio a otras cosas.
 *sensorium* no significa el órgano de la sensación. Estas son las
 palabras de Rudolphus Goclenius en su *Dictionarium Philosophicum,*
 v. *Sensiterium: Barbarum Scholasticorum* qui interdum
-sunt simiae Graecorum; ii dicunt αισθητήριον ex quo illi fecerunt
+sunt simiae Graecorum; hi dicunt αισθητήριον ex quo illi fecerunt
 sensiterium pro sensorio, id est, organo sensationis[^3].
 
 [^3]: R. Goclenius, *Lexicón Philosophicum*, Frankfurt, 1613. «*Sensiterium*:
@@ -124,12 +124,12 @@ barbarismo escolástico que imita a los griegos. Estos dicen αισθητήρι�
 De lo que ellos hicieron sensiterio por sensorio, esto es, el órgano de la
 sensación.»
 
-**11** La simple presencia de una sustancia incluso animada
+**§11** La simple presencia de una sustancia incluso animada
 no es suficiente para la percepción: un ciego, e induso un distraído,
 no ve. Hay que explicar cómo el alma se apercibe de lo
 que está fuera de ella.
 
-**12** Dios no está presente en las cosas por situación, sino
+**§12** Dios no está presente en las cosas por situación, sino
 por esencia; su presencia se manifiesta por su operación inmediata.
 La presencia del alma es de otra naturaleza. Decir que está
 difundida por el cuerpo es hacerla extensa y divisible; decir que
@@ -137,7 +137,7 @@ está entera en cada parte de un cuerpo es hacerla divisible por sí
 misma. Adscribirla a un punto, repartirla por varios puntos,
 todo eso no son más que expresiones abusivas, *Idola Tribus*.
 
-**13** Si la fuerza activa se perdiera en el universo por las
+**§13** Si la fuerza activa se perdiera en el universo por las
 leyes naturales que Dios ha establecido en él, de forma que tuviera
 necesidad de una nueva impresión para restituir esta fuerza,
 como un artesano que corrige la imperfección de su máquina, el
@@ -146,16 +146,16 @@ también respecto al mismo Dios. El podía prevenirlo y tomar
 mejor sus medidas para evitar un inconveniente semejante, como
 efectivamente lo ha hecho.
 
-**14** Cuando he dicho que Dios ha puesto remedio a tales
+**§14** Cuando he dicho que Dios ha puesto remedio a tales
 desórdenes por adelantado, no digo que Dios deje venir primero
 los desórdenes y después los remedios, sino que ha encontrado
 primero el medio para impedir que lleguen los desórdenes.
 
-**15** Se aplican inútilmente a criticar mi expresión: Dios es
+**§15** Se aplican inútilmente a criticar mi expresión: Dios es
 inteligencia supramundana. Decir que está por encima del mundo
 no es negar que esté en el mundo.
 
-**16** Yo no he dado nunca motivo para dudar de si la conservación
+**§16** Yo no he dado nunca motivo para dudar de si la conservación
 de Dios es una preservación y continuación actual de
 los seres, poderes, órdenes, disposiciones y movimientos, y creo
 que lo he explicado quizá mejor que otros. Pero dicen: *This is
@@ -167,9 +167,9 @@ caer en tales desórdenes que esté obligado a repararla por vías
 extraordinarais? Y la voluntad de Dios ¿es capaz de actuar sin
 razón? Y el espacio ¿es un ser absoluto? ¿En qué consiste la
 naturaleza del milagro? Y multitud de preguntas parecidas, que
-producen un gran distanciamiento.
+producen un gran distanciamiento entre nosotros.
 
-**17** Los teólogos no estarán de acuerdo con la tesis que se
+**§17** Los teólogos no estarán de acuerdo con la tesis que se
 propone contra mí de que no hay diferencia, con relación a Dios,
 entre lo natural y lo sobrenatural. La mayoría de los filósofos lo
 aprobarán menos todavía. Hay una diferencia infinita, pero parece
