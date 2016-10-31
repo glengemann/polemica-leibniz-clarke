@@ -57,7 +57,7 @@ la propiedad o la afección?.
 **§9** Si el espacio inﬁnito es la inmensidad, el espacio finito
 será lo contrario de la inmensidad, es decir, la mensurabilidad
 o la extensión limitada. Mas la extensión debe ser la afección
-de un extenso. Pero si este espacio está vacio, será un atributo
+de un extenso. Pero si este espacio está vacío, será un atributo
 sin sujeto, una extensión de ningún extenso. Es por ello por lo
 que, haciendo del espacio una propiedad, se viene a coincidir con
 mi opinión, que hace de él un orden de cosas y no algo absoluto.
@@ -69,7 +69,7 @@ ni cambiarlo en nada. Es no solamente inmenso en el todo, sino
 inmutable y eterno en cada parte. Habría una infinidad de cosas
 eternas fuera de Dios.
 
-**11** Decir que el espacio infinito no tiene partes es decir
+**§11** Decir que el espacio infinito no tiene partes es decir
 que los espacios finitos no lo componen, y que el espacio infinito
 podría subsistir cuando todos los espacios finitos fueran reducidos
 a nada. Sería como si se dijera, en la suposición cartesiana
@@ -77,7 +77,7 @@ de un universo corporal extenso sin límites, que este universo
 podría subsistir cuando todos los cuerpos que lo componen fueran
 reducidos a la nada.
 
-**12** Atribuyen partes al espacio (p. 19 de la 3ra. edición de
+**§12** Atribuyen partes al espacio (p. 19 de la 3ra. edición de
 la Defensa del argumento contra M. Dodwell)[^4], y se las hace
 inseparables unas de otras. Pero en la p. 30 de la segunda Defensa,
 se admiten partes impropiamente dichas: esto puede entenderse
@@ -85,19 +85,19 @@ en un buen sentido.
 
 [^4]: Se refiere Leibniz a la obra de Clarke en *Works*, III , pp. 763 y 794.
 
-**13** Decir que Dios hiciera avanzar todo el universo, en
+**§13** Decir que Dios hiciera avanzar todo el universo, en
 línea recta o de otra forma, sin cambiar nada, es también una
-suposición quimérica Pues dos estados indiscernibles son un
+suposición quimérica. Pues, dos estados indiscernibles son un
 mismo estado y, en consecuencia, es un cambio que no cambia
 nada. Es más, no hay ni rima ni razón, pues Dios no hace nada
 sin razón, y es imposible que la haya aquí. Por otro lado, sería
 *agendo nihil agere*, como acabo de decir, a causa de la indiscernibilidad.
 
-**14** Esto son *Idola tribus*, puras quimeras, e imaginaciones
-superficiales. Todo está fundado sobre la posición de que el espacio
+**§14** Estos son *Idola tribus*, puras quimeras, e imaginaciones
+superficiales. Todo está fundado sobre la suposición de que el espacio
 imaginario es real.
 
-**15** Es una ficción parecida, es decir imposible, suponer que
+**§15** Es una ficción parecida, es decir imposible, suponer que
 Dios haya creado el mundo millones de años antes. Quienes proponen
 esta clase de ficciones no sabrían responder a aquellos que
 argumentaren en favor de la eternidad del mundo. Del hecho de
@@ -108,17 +108,17 @@ precisable, es decir, que el mundo sería eterno. Pero cuando
 se demuestra que el principio, sea el que sea, es siempre la misma
 cosa, la pregunta de por qué no ha sido de otra manera desaparece.
 
-**16** Si el espacio y el tiempo son algo absoluto, es decir,
+**§16** Si el espacio y el tiempo son algo absoluto, es decir,
 si son otra cosa que ciertos órdenes de cosas, lo que digo sería
 contradictorio. Pero, no siendo esto así, la hipótesis de que el espacio y el tiempo son cosas absolutas es contradictoria,
 es decir, es una ficción imposible.
 
-**17** Ocurre como en la geometría, donde se prueba, a veces
+**§17** Ocurre como en la geometría, donde se prueba, a veces
 por la propia suposición, que una figura es más grande, y en la
 realidad no lo es. Esto es una contradicción, pero está en la hipótesis,
 la cual, por eso mismo, es falsa.
 
-**18** La uniformidad del espacio hace que no haya razón interna
+**§18** La uniformidad del espacio hace que no haya razón interna
 ni externa para discernir las partes, para elegirlas. Pues la
 razón externa para discernir no estaría fundada sino en la interna;
 por otra parte, esto sería discernir lo indiscernible, o elegir
@@ -127,37 +127,37 @@ Un Dios que obrara por una voluntad semejante sería un Dios
 sólo de nombre. La fuente de esos errores es que no tienen cuidado
 en evitar lo que anula las perfecciones divinas.
 
-**19** Cuando dos cosas incompatibles son igualmente buenas,
+**§19** Cuando dos cosas incompatibles son igualmente buenas,
 tanto en sí como en combinación con otras, la una no tiene ventajas
 sobre la otra. Dios no producirá ninguna.
 
-**20** Dios no está determinado por las cosas externas, sino
+**§20** Dios no está determinado por las cosas externas, sino
 siempre por lo que está en El, es decir, por sus conocimientos,
 antes de que exista ninguna cosa fuera de El.
 
-**21** No hay razón posible que pueda limitar la cantidad de
+**§21** No hay razón posible que pueda limitar la cantidad de
 la materia. Así, esta limitación no tendrá lugar.
 
-**22** Y, supuesta esta limitación arbitraria, se podría añadir
+**§22** Y, supuesta esta limitación arbitraria, se podría añadir
 siempre alguna cosa sin anular la perfección de las cosas que son
 ya. Y, en consecuencia, sería necesario siempre añadir algo para
 obrar de acuerdo con el principio de la perfección de las operaciones
 divinas.
 
-**23** Así, no se podría decir que la presente cantidad de materia
+**§23** Así, no se podría decir que la presente cantidad de materia
 es la más conveniente para su presente constitución. Y aunque
 así fuera, se seguiría que esta presente constitución de las
 cosas no sería absolutamente la más conveniente, si impide emplear
 más materia; sería entonces necesario escoger otra, capaz
 de algo más.
 
-**24** Yo estoy muy deseoso de ver los pasajes de los filósofos
+**§24** Yo estoy muy deseoso de ver los pasajes de los filósofos
 en donde *sensorium* se toma de manera distinta que en Goclenius.
 He tenido una razón al aducir el Diccionario filosófico
 de este autor: mostrar cómo se tiene costumbre de tomar la palabra
 *sensorium*; precisamente ésta es la utilidad de los diccionarios.
 
-**25** Si Scapula dice que *sensorium* es el lugar donde reside
+**§25** Si Scapula dice que *sensorium* es el lugar donde reside
 el entendimiento, entenderá el órgano de la sensación interna.
 Así no se alejará de Goclenius.
 
