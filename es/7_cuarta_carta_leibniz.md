@@ -161,77 +161,77 @@ de este autor: mostrar cómo se tiene costumbre de tomar la palabra
 el entendimiento, entenderá el órgano de la sensación interna.
 Así no se alejará de Goclenius.
 
-**26** *Sensorium* ha sido siempre el órgano de la sensación.
+**§26** *Sensorium* ha sido siempre el órgano de la sensación.
 La glándula pineal sería, según Descartes, el *sensorium*, en el sentido
 que se recoge de Scapula.
 
-**27** No hay expresión menos conveniente sobre este tema
+**§27** No hay expresión menos conveniente sobre este tema
 que aquella que da a Dios un *sensorium*. Parece que le hace alma
 del mundo, y nos costará mucho trabajo dar al uso que M. Newton
 hace de esa palabra un sentido que la pueda justificar.
 
-**28** Aunque se trate del significado de M. Newton, y no del
+**§28** Aunque se trate del significado de M. Newton, y no del
 de Goclenius, no se me debe reprochar haber alegado el Diccionario
 filosófico de este autor, porque el fin de los diccionarios es
 establecer el uso de los términos.
 
-**29** Dios se apercibe de las cosas en sí mismo. El espacio
+**§29** Dios se apercibe de las cosas en sí mismo. El espacio
 es el lugar de las cosas, y no el lugar de las ideas de Dios, a menos
 que se considere al espacio como algo que realiza la unión de
 las cosas y de Dios, a imitación de la unión del alma y del cuerpo
 que imaginamos, lo que convertiría además a Dios en el alma
 del mundo.
 
-**30** También se equivocan en la comparación que se hace
+**§30** También se equivocan en la comparación que se hace
 del conocimiento y operación de Dios con los de las almas. Las
 almas conocen las cosas porque Dios ha puesto en ellas un principio
 representativo de lo que está fuera de ellas. Pero Dios conoce
 las cosas porque las produce continuamente.
 
-**31** Las almas no operan sobre las cosas, según mi opinión,
+**§31** Las almas no operan sobre las cosas, según mi opinión,
 más que porque los cuerpos se acomodan a sus deseos en virtud
 de la armonía que Dios ha preestablecido entre ellos.
 
-**32** Pero los que se imaginan que las almas pueden dar una
+**§32** Pero los que se imaginan que las almas pueden dar una
 fuerza nueva al cuerpo y que Dios hace otro tanto en el mundo
 para corregir los defectos de su máquina, aproximan en exceso
 Dios al alma, dando demasiado al alma y demasiado poco a Dios.
 
-**33** Pues sólo Dios puede dar a la naturaleza nuevas fuerzas,
+**§33** Pues sólo Dios puede dar a la naturaleza nuevas fuerzas,
 pero lo hace sólo sobrenaturalmente. Si tuviera necesidad de
 hacerlo en el curso natural, habría hecho una obra muy imperfecta.
 Se parecería, con respecto al mundo, a lo que el vulgo atribuye
 al alma respecto al cuerpo.
 
-**34** Queriendo sostener la opinión vulgar de la influencia
+**§34** Queriendo sostener la opinión vulgar de la influencia
 del alma sobre el cuerpo por medio del ejemplo de Dios que opera
 fuera de El, se hace también que Dios se parezca demasiado al
 alma del mundo. Esta postura, pese a censurar mi expresión de
 «inteligencia supramundana», parece inclinarse también a lo
 mismo.
 
-**35** Las imágenes, de las que el alma está inmediatamente
+**§35** Las imágenes, de las que el alma está inmediatamente
 afectada, están en ella misma, pero responden a las del cuerpo.
 La presencia del alma es imperfecta, y no puede ser explicada
 más que por esta concordancia. Pero la de Dios es perfecta y se
 manifiesta por su operación.
 
-**36** Se supone mal, contra mí, que la presencia del alma
+**§36** Se supone mal, contra mí, que la presencia del alma
 está ligada a su influencia sobre el cuerpo, puesto que es sabido
 que yo rechazo esa influencia.
 
-**37** Es tan inexplicable decir que el alma está difundida
+**§37** Es tan inexplicable decir que el alma está difundida
 por el cerebro, como decir que está difundida por el cuerpo entero.
 La diferencia no es más que de más y menos.
 
-**38** Aquellos que se imaginan que las fuerzas activas disminuyen
+**§38** Aquellos que se imaginan que las fuerzas activas disminuyen
 en sí mismas en el mundo no conocen bien las principales
 leyes de la naturaleza, ni la belleza de las obras de Dios.
 
-**39** ¿Cómo probarán ellos que tal disminución es una consecuencia
-de la dependencia de las cosas?
+**§39** ¿Cómo probarán ellos que tal disminución es una consecuencia
+de la dependencia de las cosas?.
 
-**40** Este defecto de nuestras máquinas, que hace que tengan
+**§40** Este defecto de nuestras máquinas, que hace que tengan
 necesidad de ser reparadas, viene de eso mismo, de que no
 son lo bastante dependientes del obrero. Así, su dependencia de
 Dios, lejos de ser causa de ese defecto, es más bien causa de que
@@ -241,7 +241,7 @@ de ser reparada. Es verdad que cada máquina particular de
 la naturaleza está en cierto modo sujeta a ser descompuesta, mas
 no el universo entero, ya que no podría disminuir en perfección.
 
-**41** Se dice que el espacio no depende de la situación de
+**§41** Se dice que el espacio no depende de la situación de
 los cuerpos. Yo respondo que es verdad que no depende de una
 tal o cual situación de los cuerpos, pero es este orden lo que
 hace que los cuerpos sean situables, y por el cual ellos tienen
@@ -250,29 +250,29 @@ es este orden respecto a su posición sucesiva. Pero si no hubiera
 criaturas, el espacio y el tiempo no existirían más que en
 las ideas de Dios.
 
-**42** Parece que se reconoce aquí que la idea que se forman
+**§42** Parece que se reconoce aquí que la idea que se forman
 del milagro no es la que tienen comúnmente los teólogos y los filósofos.
 Me basta entonces que mis adversarios se vean obligados
 a recurrir a eso que, según el uso recibido, llamamos milagro y
 que se trata de evitar filosofando.
 
-**43** Tengo miedo de que queriendo cambiar el sentido usual
+**§43** Tengo miedo de que queriendo cambiar el sentido usual
 de milagro, caigamos en una opinión incómoda. La naturaleza del
 milagro no consiste de ninguna manera en lo usual o inusual, de
 lo contrario los monstruos serían milagros.
 
-**44** Hay milagros de naturaleza inferior que un ángel puede
+**§44** Hay milagros de naturaleza inferior que un ángel puede
 producir, pues puede, por ejemplo, hacer que un hombre vaya
 por el agua sin hundirse. Pero hay milagros reservados a Dios y
 que sobrepasan todas las fuerzas naturales, tal es, por ejemplo,
 crear o aniquilar.
 
-**45** Es sobrenatural, también, que los cuerpos se atraigan
+**§45** Es sobrenatural, también, que los cuerpos se atraigan
 de lejos sin ningún medio y que un cuerpo gire en círculo sin
 escapar por la tangente, aunque nada le impida escapar. Pues
 estos efectos no son explicables por las naturalezas de las cosas.
 
-**46** ¿Por qué el movimiento de los animales no sería explicable
+**§46** ¿Por qué el movimiento de los animales no sería explicable
 por las fuerzas naturales? Es verdad que el origen de los animales
 es tan inexplicable por tales fuerzas como el del comienzo
 del mundo.
@@ -280,7 +280,7 @@ del mundo.
 P.S.[^5] Todos aquellos que defienden el vacío se dejan llevar más
 por la imaginación que por la razón. Cuando yo era muchacho,
 yo creía también en el vacío y en los átomos, pero la razón me
-hizo cambiar. La imaginación era ridicula. Se limitan en ella las
+hizo cambiar. La imaginación era ridícula. Se limitan en ella las
 investigaciones, se fija la meditación como con un clavo; creemos
 haber encontrado los primeros elementos, un *non plus ultra*. Querríamos
 que la naturaleza no fuera más allá, que fuera finita
@@ -337,20 +337,39 @@ y de otros textos.
 Madame:
 
 Doy gracias a V. A. R. por la bondad que tiene al querer revisar
-mis cartas perdidas. Por mi parte, las haré copiar de nuevo.Adjunto aquí una respuesta a la carta de M. Clarke, el cual, lomismo que sus compañeros, no comprende bien aún este principio
-de que nada llega a ser sin que exista una razón suficientepara ello y, por consiguiente, que Dios mismo no podría elegirsin que haya una razón de su elección. Este es el error, refutadoen la *Teodicea*, de la indiferencia vaga o de la decisión absolutamente
-absoluta. Este error es además la fuente del vacío y de losátomos.
+mis cartas perdidas. Por mi parte, las haré copiar de nuevo.
+Adjunto aquí una respuesta a la carta de M. Clarke, el cual, lo
+mismo que sus compañeros, no comprende bien aún este principio
+de que nada llega a ser sin que exista una razón suficiente
+para ello y, por consiguiente, que Dios mismo no podría elegir
+sin que haya una razón de su elección. Este es el error, refutado
+en la *Teodicea*, de la indiferencia vaga o de la decisión absolutamente
+absoluta. Este error es además la fuente del vacío y de los
+átomos.
+
 Me parece que no hay nada en mi respuesta a M. el Abate
 Conti que insinúe un espíritu turbado y tampoco hay nada que
 desaire a M. Newton. Pero como él me ataca, yo me defiendo y
 mis expresiones son bastantes moderadas. ¿De qué sirve exhortarme
-a la paz si a la vez se me desafía?
+a la paz si a la vez se me desafía?.
 
-Temo que nosotros vamos a discutir tan inútilmente sobreel vacío como sobre las demás cosas. No tengo suficiente tiempode sobra como para gastarlo en diversiones. Hay cosas más importantes
+Temo que nosotros vamos a discutir tan inútilmente sobre
+el vacío como sobre las demás cosas. No tengo suficiente tiempo
+de sobra como para gastarlo en diversiones. Hay cosas más importantes
 que hacer. No creo que haya ningún espacio sin materia.
-Los experimentos que se llaman del vacío, no excluyen másque una materia grosera que se extrae de la cavidad de un vasode cristal por el peso del mercurio, según Torricelli, y por medio
-de la bomba, según M. Guerike. Pues los rayos de luz queno carecen de alguna sutil materia pasan a través del vidrio. Nohabría tocado esta cuestión del vacío si no hubiera encontradoque la opinión del vacío suprime las perfecciones de Dios, comocasi todas las otras opiniones filosóficas que son contrarias a lasmías. Pues las mías están casi todas ellas ligadas con el gran principio
-de la suprema razón y perfección de Dios. Así, no temo queV. A. Real abandone fácilmente lo que había tenido el placerde comprender correctamente: su penetración y su celo por lagloria de Dios me lo garantizan.
+Los experimentos que se llaman del vacío, no excluyen más
+que una materia grosera que se extrae de la cavidad de un vaso
+de cristal por el peso del mercurio, según Torricelli, y por medio
+de la bomba, según M. Guerike. Pues los rayos de luz que
+no carecen de alguna sutil materia pasan a través del vidrio. No
+habría tocado esta cuestión del vacío si no hubiera encontrado
+que la opinión del vacío suprime las perfecciones de Dios, como
+casi todas las otras opiniones filosóficas que son contrarias a las
+mías. Pues las mías están casi todas ellas ligadas con el gran principio
+de la suprema razón y perfección de Dios. Así, no temo que
+V. A. Real abandone fácilmente lo que había tenido el placer
+de comprender correctamente: su penetración y su celo por la
+gloria de Dios me lo garantizan.
 
 Suplicando a V.A. Real que comunique a M. el Abate Conti
 mis conferencias con M. Clarke, mi intención había sido que por
@@ -378,24 +397,41 @@ Basta que me reserve su bondad, y me ha dado pruebas grandes
 y reales de ella. La continuación de su estima se puede ver por
 todo lo que se refiere a la traducción de la *Teodicea*.
 
-Hemos recibido aquí una carta de Swerin, de un ministro delZar, que pide 150 caballos de tiro, y que se le envíe una guardiaa Pirmont. No señala el tiempo. Hemos enviado una estafeta aM. Fabrice para saberlo con precisión. Quisiera que el Zar y elRey de Dinamarca imitasen en Meclenbourg y en Holstein lo queel Rey hace en el país de Breme, pero ellos imitan preferentemente
+Hemos recibido aquí una carta de Swerin, de un ministro del
+Zar, que pide 150 caballos de tiro, y que se le envíe una guardia
+a Pirmont. No señala el tiempo. Hemos enviado una estafeta a
+M. Fabrice para saberlo con precisión. Quisiera que el Zar y el
+Rey de Dinamarca imitasen en Meclenbourg y en Holstein lo que
+el Rey hace en el país de Breme, pero ellos imitan preferentemente
 lo que el Rey hace en Polonia. El conde Merch hace exhortaciones
-al Zar, pero sería conveniente que el Rey de la G.B.y el Rey de Prusia unieran las suyas.
+al Zar, pero sería conveniente que el Rey de la G.B.
+y el Rey de Prusia unieran las suyas.
 
-He aquí una obra postuma del Barón de la Hontan; se metióa escribir sobre negocios, y un poco antes de morir envió a Leipzig
-este pequeño discurso contra una carta impresa, opuesta almanifiesto del Rey. Este discurso nos ha sido traído de la feria,y me tomo la libertad de enviárselo a V.A. Real. El autor hace
+He aquí una obra postuma del Barón de la Hontan; se metió
+a escribir sobre negocios, y un poco antes de morir envió a Leipzig
+este pequeño discurso contra una carta impresa, opuesta al
+manifiesto del Rey. Este discurso nos ha sido traído de la feria,
+y me tomo la libertad de enviárselo a V.A. Real. El autor hace
 ver su celo por la gloria del Rey. Pero no parece que haya entrado
 muy a fondo en los asuntos.
 Soy, etc..
 
-P.S. Me admira cómo las cosas se pueden tergiversar. 1.° Esseguro que la escisión que hay entre los protestantes, y que haceque los unos condenen a los otros, se excluyan de la comunión yse miren como de religión diferente, es una cosa muy perniciosa.2.° Es seguro también que jamás se han visto oportunidades másfavorables para eliminar la escisión. 3.° De lo que se sigue queuna persona que considere bien los hechos, que tenga un verdadero
-celo y autoridad al mismo tiempo, debe pensar firmementeen eliminar o disminuir una cosa tan deplorable. Pero ¿es venira los hechos hablar de las diferencias sobre la disciplina eclesiástica?
+P.S. Me admira cómo las cosas se pueden tergiversar. 1.° Es
+seguro que la escisión que hay entre los protestantes, y que hace
+que los unos condenen a los otros, se excluyan de la comunión y
+se miren como de religión diferente, es una cosa muy perniciosa.
+2.° Es seguro también que jamás se han visto oportunidades más
+favorables para eliminar la escisión. 3.° De lo que se sigue que
+una persona que considere bien los hechos, que tenga un verdadero
+celo y autoridad al mismo tiempo, debe pensar firmemente
+en eliminar o disminuir una cosa tan deplorable. Pero ¿es venir
+a los hechos hablar de las diferencias sobre la disciplina eclesiástica?.
 
 Puesto que los reformados de Inglaterra y fuera de Inglaterra
 no se condenan para nada por esas diferencias y no se excluyen
 de la mutua comunión, esto no tiene entonces nada que ver con
 el asunto de que se trata. ¿Y no es una contradicción decir, para
-excusarse de pensar seriamente, que cada uno debe vivir su fe?
+excusarse de pensar seriamente, que cada uno debe vivir su fe?.
 Es justamente por esto por lo que debemos eliminar esas exclusiones
 de la comunión y esas condenas, porque la diferencia de
 opinión no es demasiado grande para superarla. Si lo que acabo
