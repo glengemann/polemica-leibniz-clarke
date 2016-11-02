@@ -2,7 +2,7 @@
 
 [^1]: Remitida el 26 de junio de 1716.
 
-**1 y 2** Esta idea conduce a la necesidad universal y al hado,
+**§1 y §2** Esta idea conduce a la necesidad universal y al hado,
 por suponer que los motivos tienen la misma relación con la voluntad
 de un *agente inteligente* que los pesos con una balanza[^2],
 de suerte que un agente inteligente no puede escoger entre dos
@@ -25,7 +25,7 @@ cosas, ni de las perfecciones de Dios.
 
 [^2]: Clarke remite al parág. 1 de la 2. carta de Leibniz.
 
-**3 y 4** Si fuera verdad este argumento, probaría que Dios ni
+**§3 y 4§** Si fuera verdad este argumento, probaría que Dios ni
 ha creado ni posiblemente pueda crear en absoluto materia alguna.
 Por lo que se refiere a las partes perfectamente sólidas de
 toda materia, si las tomamos de igual figura y dimensiones (lo
@@ -47,7 +47,7 @@ en cada lugar. El mismo razonamiento es válido también en lo
 concerniente a la determinación original del movimiento, hacia
 este lado o hacia el contrario.
 
-**5 y 6** Dos cosas, aun siendo exactamente iguales, no dejan
+**§5 y §6** Dos cosas, aun siendo exactamente iguales, no dejan
 de ser dos. Las partes del tiempo son exactamente iguales unas a
 otras, como también lo son las del espacio. Sin embargo, dos
 instantes no son el mismo instante, ni tampoco son dos nombres
@@ -60,7 +60,7 @@ En consecuencia, decir que Dios no pudo haber alterado el
 tiempo y el lugar de la existencia de la materia es hacerla necesariamente
 finita y eterna y reducirlo todo a necesidad y hado.
 
-**7** El espacio extramundano no es imaginario (si el mundo
+**§7** El espacio extramundano no es imaginario (si el mundo
 material es de dimensiones finitas), sino real. En un mundo meramente
 imaginario no hay espacios vacíos. En un recipiente del
 que se ha extraído el aire[^3], los rayos de luz y quizás alguna otra
@@ -77,21 +77,21 @@ privada en la que se incluía la respuesta de Leibniz. Puede verse en la
 presente edición después de la cuarta carta de Leibniz. Se trata de la carta
 a la princesa Carolina, fechada en 2 de agosto de 1716.
 
-**8** El espacio vacío de cuerpos es la propiedad de una sustancia
+**§8** El espacio vacío de cuerpos es la propiedad de una sustancia
 incorpórea. No está limitado por los cuerpos, sino que
 existe igualmente tanto con cuerpos como sin ellos. El espacio
 no está encerrado entre cuerpos, sino que éstos, existiendo en
 un espacio ilimitado, están solamente delimitados por sus propias
 dimensiones.
 
-**9** El espacio vacío no es un atributo sin sujeto, porque no
+**§9** El espacio vacío no es un atributo sin sujeto, porque no
 entendemos nunca por espacio vacío el espacio vacío de toda
 cosa, sino solamente el vacío de cuerpo. Dios ciertamente, y posiblemente
 muchas otras sustancias que no son materia, están
 presentes en todo espacio vacío, no siendo ni tangibles ni objetos
 de ninguno de nuestros sentidos.
 
-**10** El espacio no es una sustancia, sino una propiedad[^4], y
+**§10** El espacio no es una sustancia, sino una propiedad[^4], y
 si es una propiedad de lo que es necesario, en consecuencia deberá
 existir (como todas las otras propiedades de aquello que es
 necesario que sea) más necesariamente que aquellas sustancias
