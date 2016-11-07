@@ -128,7 +128,7 @@ de Dios que: «es eterno e infinito, etc.», por lo demás son frases que tambi�
 con mínimas variaciones, aparecen en las cuestiones finales de la
 *Optica*.
 
-**11 y 12** Los infinitos están compuestos de finitos no en
+**§11 y §12** Los infinitos están compuestos de finitos no en
 otro sentido que en el que los finitos están compuestos de infinitésimos.
 En qué sentido el espacio tiene o deja de tener partes
 es algo que ha sido explicado más arriba (carta 3ra, 3). Las partes,
@@ -141,7 +141,7 @@ esencialmente indiscernibles e inamovibles entre sí y no
 divisibles sin que haya una contradicción expresa en los términos
 (véase carta 3ra, 3): es en sí mismo uno y absolutamente indivisible.
 
-**13** Si el mundo es de dimensiones finitas, es mudable por
+**§13** Si el mundo es de dimensiones finitas, es mudable por
 el poder de Dios y, por lo tanto, mi argumento basado en esa
 mutabilidad es concluyente. Dos lugares, aunque exactamente
 iguales, no son el mismo lugar. El movimiento o el reposo del
@@ -166,13 +166,13 @@ hay ninguno relativo, y movimiento relativo allí donde no hay
 ninguno real. Y no se le puede responder simplemente afirmando
 lo contrario.
 
-**14** La realidad del espacio no es una hipótesis, sino que
+**§14** La realidad del espacio no es una hipótesis, sino que
 es probada por los argumentos anteriormente dados, a los cuales
 no se ha dado respuesta. Tampoco se ha dado respuesta alguna
 al otro argumento que dice que espacio y tiempo son cantidades,
 mientras que no lo son ni la situación ni el orden.
 
-**15** No era imposible para Dios crear el mundo antes o
+**§15** No era imposible para Dios crear el mundo antes o
 después de lo que lo hizo. Ni es para él imposible en modo alguno
 destruirlo antes o después de lo que de hecho habrá de ser
 destruido. En cuanto a la idea de la eternidad del mundo, quienes
@@ -188,14 +188,14 @@ determinado en que lo hizo; pudo haber hecho otro tipo de
 cosas antes de que este mundo material comenzara a existir, y
 puede hacer otro tipo de cosas después de que sea destruido.
 
-**16 y 17** Se ha probado más arriba (ver la carta 3ra. , 4, y en
+**§16 y §17** Se ha probado más arriba (ver la carta 3ra. , 4, y en
 esta carta, 13) que ni el espacio ni el tiempo son el mero orden
 de las cosas, sino cantidades reales (y no lo son ni la situación ni
 el orden), y no se ha dado respuesta a aquellas pruebas. Y hasta
 que no se dé una respuesta a estas pruebas, la afirmación de este
 sabio autor, según su confesión en este lugar, es una contradicción.
 
-**18** La uniformidad de todas las partes del espacio no es un
+**§18** La uniformidad de todas las partes del espacio no es un
 argumento contra el obrar de Dios en cualquier parte del modo
 que le plazca. Dios puede tener buenos motivos para crear seres
 finitos, y los seres finitos no pueden existir sino en lugares determinados.
@@ -210,14 +210,14 @@ salvo en una u otra de las situaciones igualmente razonables. El
 azar epicúreo no es una elección de la voluntad, sino la ciega
 necesidad del hado.
 
-**19** Si (como observé hace poco, 3) prueba algo este argumento,
+**§19** Si (como observé hace poco, 3) prueba algo este argumento,
 prueba que Dios ni creó ni puede crear en absoluto materia
 alguna, porque la situación de las partes iguales y similares
 de materia no podría sino ser originariamente indiferente, como
 lo sería también la primera determinación de sus movimientos
 hacia acá o hacia allá.
 
-**20** No entiendo lo que pretende probar esto con respecto
+**§20** No entiendo lo que pretende probar esto con respecto
 a nuestro anterior argumento.
 
 **21** El decir que Dios no puede limitar la cantidad de materia
