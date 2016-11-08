@@ -220,25 +220,25 @@ hacia acá o hacia allá.
 **§20** No entiendo lo que pretende probar esto con respecto
 a nuestro anterior argumento.
 
-**21** El decir que Dios no puede limitar la cantidad de materia
+**§21** El decir que Dios no puede limitar la cantidad de materia
 es una afirmación de una consecuencia demasiado considerable
 para ser admitida sin pruebas. Si no puede limitar la duración
 del mundo, entonces el mundo material es infinito y eterno
 necesaria e independientemente de Dios.
 
-**22 y 23** Este argumento (si fuera válido) probaría que
+**§22 y §23** Este argumento (si fuera válido) probaría que
 cualquier cosa que Dios pueda hacer no puede dejar de hacerla
 y, por tanto, que no puede crear cosa alguna si no es infinita y
 eterna. Lo cual no es en modo alguno hacerle Señor, sino un
 simple agente necesario, cosa que en realidad no es ser agente en
 absoluto, sino mero hado, naturaleza y necesidad.
 
-**24-28** En lo que concierne al uso de la palabra *sensorio*
+**§24-§28** En lo que concierne al uso de la palabra *sensorio*
 (aunque Sir Isaac Newton dice solamente «como si fuera *sensorio*»),
 bastante se ha dicho en mi tercera carta, 10, en la segunda,
 3, y en la primera, 3.
 
-**29** El espacio es el lugar de todas las cosas y de todas las
+**§29** El espacio es el lugar de todas las cosas y de todas las
 ideas. Lo mismo que la duración es la duración de todas las cosas
 y de todas las ideas. Véase más arriba (carta 2da., 12) cómo esto
 no tiende a hacer de Dios el espíritu del mundo. Entre Dios y el
@@ -249,7 +249,7 @@ actúa según le place sin ser influido por él. Aunque había sido
 dada antes esta respuesta (carta 2da., 12), sin embargo, la misma
 objeción se repite una y otra vez, sin tomarlo en cuenta.
 
-**30** No entiendo lo que significa *principio representativo*.
+**§30** No entiendo lo que significa *principio representativo*.
 El espíritu discierne las cosas por haberle transmitido hasta él
 las imágenes de las mismas a través de los órganos de los sentidos;
 Dios discierne las cosas por estar presente a, y en las sustancias de,
@@ -258,14 +258,14 @@ las cosas mismas. No porque las cree continuamente
 está continuamente omnipresente a cada cosa que creó desde el
 principio.
 
-**31** Es un constante milagro el que el alma no pueda obrar
+**§31** Es un constante milagro el que el alma no pueda obrar
 sobre el cuerpo y, sin embargo, el cuerpo, por el mero impulso
 mecánico de la materia, se acomode a la voluntad del alma en
 toda la infinita variedad de movimientos animales espontáneos.
 La armonía preestablecida es una simple palabra o término técnico,
 y no explica la causa de un efecto tan milagroso.
 
-**32** Suponer que el espíritu no da a la materia nuevo movimiento
+**§32** Suponer que el espíritu no da a la materia nuevo movimiento
 o impresión en los movimientos animales espontáneos,
 sino que todo movimiento de este tipo es realizado por un impulso
 mecánico de la materia, es reducirlo todo a mero hado y necesidad.
@@ -274,7 +274,7 @@ quiere, sin unión ninguna y sin ser influido por nada, muestra
 claramente la diferencia existente entre un gobernador omnipresente
 y un alma imaginaria del mundo.
 
-**33** Cada acción es (en la naturaleza de las cosas) la donación
+**§33** Cada acción es (en la naturaleza de las cosas) la donación
 de una nueva fuerza a la cosa sobre la cual se ha actuado.
 De otro modo esto no sería realmente acción, sino mera pasividad,
 como en el caso de todas las comunicaciones mecánicas e
