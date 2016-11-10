@@ -8,6 +8,101 @@ en el escritor, ni son un medio conveniente para transmitir
 nociones claras al lector, voy a intentar dar, tan brevemente
 como pueda, una respuesta distinta a esta quinta carta.
 
+**1§-20§** No hay punto de comparación entre una balanza (número 3)
+que se inclina por la acción de pesos o por la de impulsos,
+y una mente que se mueve por sí misma, u obra a la vista de
+ciertos motivos. La diferencia radica en que la una es enteramente
+pasiva, cosa que equivale a estar sometido a la necesidad
+absoluta, mientras que la otra no solamente es influida, sino que
+también obra, lo cual es la esencia de la libertad. Suponer (número 14)
+que una bondad aparentemente igual en distintos modos
+de obrar suprime de la mente toda capacidad de obrar, como
+la igualdad de pesos equilibra necesariamente una balanza, es
+negar que la mente tenga en sí misma una facultad de acción, y
+es confundir la facultad de acción con la impresión que produce
+el motivo en la mente, en donde es puramente pasiva. El motivo,
+o cosa a tener en cuenta, es algo extrínseco a la mente; la impresión
+creada en ésta por aquél es la cualidad perceptiva, en la que
+la mente es pasiva. La actuación de una cosa sobre o después o
+como consecuencia de esta percepción es la facultad de automovimiento
+o acción, y esto es espontaneidad en todos los agentes
+animados, y en los agentes morales es lo que propiamente llamamos
+libertad. El no distinguir cuidadosamente estas cosas, sino
+confundir (número 15) el motivo con el principio de acción y negar
+que la mente tiene un principio de acción además de un
+motivo (cuando necesariamente, al recibir la impresión de la causa,
+la mente es puramente pasiva), esto, digo, es el fundamento
+de todo el error, e induce a los hombres a pensar que la mente
+no es más activa que lo sería una balanza con la adición de una
+facultad de percepción. Y esto es eliminar totalmente la verdadera
+idea de libertad. Si una balanza es empujada, o impelida hacia
+abajo con igual fuerza o con pesos iguales por ambas partes, no
+puede moverse en absoluto, y, suponiendo que esté investida la
+balanza con una facultad de percepción, de modo que se haga
+cargo de su propia incapacidad para moverse, o de modo que se
+engañe con una falsa idea de que se mueve a sí misma cuando
+realmente es movida solamente, estaría exactamente en el mismo
+estado, en el que supone este sabio autor a un agente libre en
+todos aquellos acontecimientos que son absolutamente indiferentes.
+Pero la falacia estriba aquí: la balanza, por no tener en
+sí misma un principio o facultad de acción, no puede moverse en
+absoluto cuando los pesos son iguales, pero cuando aparecen a la
+vez dos o más modos perfectamente razonables de obrar, un agente
+libre tiene siempre en sí mismo, en virtud de su principio de
+automovimiento, una facultad de acción. Y puede tener muy
+fuertes y buenas razones para no dejar de obrar en absoluto, aun
+cuando pueda ocurrir que no haya una posible razón para determinar
+que un modo particular de obrar sea mejor que otro. Por
+eso, afirmar (números 16, 17, 18, 19 y 69) que, suponiendo que
+dos modos de colocar determinadas partículas de materia fueran
+igualmente buenos y razonables, Dios no sabría ni, posiblemente,
+podría colocarlas de cualquiera de estos dos modos por falta de
+un peso suficiente que le determine hacia qué lado inclinarse, es
+hacer de Dios no un sujeto activo, sino pasivo, lo que supone no
+ser en modo alguno un Dios o un ser providente. Y para negar
+la posibilidad de la suposición de que puede haber dos partes
+iguales de materia, que pueden ser cambiadas de situación con
+igual propiedad, no puede alegarse otra razón sino la *petitio principii*
+(número 20) de que entonces la idea de este sabio escritor
+de una razón suficiente no estaría bien fundada. Pues, por otra
+parte, ¿cómo puede decir algún hombre que es (números 16, 17,
+69 y 66) para Dios imposible tener sabias y buenas razones para
+crear algunas partículas de materia exactamente iguales en diferentes
+partes del Universo? En tal caso, es evidente que, siendo
+las partes del espacio iguales, no puede haber razón alguna, sino
+mera voluntad, para no haber cambiado sus situaciones originariamente.
+Y, no obstante, incluso no puede decirse razonablemente
+que esto sea (números 16 y 69) una voluntad sin causa, por
+cuanto las sabias razones que posiblemente pueda tener Dios al
+crear algunas partículas de materia exactamente iguales deben, en
+consecuencia, ser un motivo para él para elegir una de las dos
+absolutamente indiferentes (lo que no puede hacer una balanza),
+esto es, para colocarlas en una situación dada cuando su permuta
+no puede haber sido sino igualmente buena.
+
+En las cuestiones filosóficas, *necesidad* significa siempre necesidad
+absoluta. Las necesidades *moral* e *hipotética* (números 4,
+5, 6, 7, 8, 9, 10, 11, 12, 13)[^2] son solamente metáforas y, en rigor
+filosófico, no son en realidad necesidad en absoluto. La cuestión
+no es si debe existir algo cuando se supone que existe, o que
+debe existir (lo cual es necesidad hipotética), ni tampoco si es
+verdad que un ser bueno no puede ser malo, permaneciendo
+bueno, ni si un ser sabio no puede obrar ignorantemente siendo
+sabio, ni si una persona veraz no puede mentir mientras sigue
+siendo veraz (lo cual es necesidad moral), sino que la verdadera
+y única cuestión en filosofía, en lo que toca a la libertad, es si la
+causa física inmediata o principio de acción es en sí verdaderamente
+lo que llamamos el agente, o si hay alguna otra razón suficiente
+que sea causa real de la acción, por obrar sobre el agente
+haciendo de él no un agente, sino un mero sujeto paciente.
+
+De este modo, se puede ver que este sabio autor contradice
+su propia hipótesis cuando dice que (número 20) la voluntad no
+sigue siempre exactamente al entendimiento práctico, porque algunas
+veces puede encontrar razones para suspender sus resoluciones.
+Pero ¿no son precisamente estas razones el último juicio
+del entendimiento práctico?.
+
 **107-109** Afirmé que, con respecto a Dios, ninguna cosa
 posible es más milagrosa que otra y que, por eso, un milagro no
 consiste en la dificultad ofrecida por la naturaleza para hacerlo,
@@ -32,7 +127,7 @@ nada en absoluto, sino que simplemente sigue remitiéndonos a los
 modos vulgares de hablar de determinados filósofos y teólogos,
 cosa que no es el asunto de que se trata (como ya he dicho).
 
-**110-116** Sorprende mucho aquí que se nos remita (número 110)
+**§110-§116** Sorprende mucho aquí que se nos remita (número 110)
 de nuevo a las opiniones de determinados filósofos y
 teólogos, en un punto de razón y no de autoridad, pero dejando
 esto a un lado ¿qué entiende este sabio autor por una real (número 110)
@@ -146,14 +241,14 @@ el universo salvo lo que es posible hacer por medio de una máquina
 corporal que se atiene a leyes meramente mecánicas después
 de puesta en marcha.
 
-**117** La confesión de este docto autor en este lugar de que
+**§117** La confesión de este docto autor en este lugar de que
 hay verdaderos milagros mayores y menores y de que los ángeles
 son capaces de hacer algunos milagros verdaderos se contradice
 completamente (véase la 3. carta de Leibniz, número 17) con la
-idea de la naturaleza de milagro, que ha defendido a través de
+idea de la naturaleza del milagro, que ha defendido a través de
 estas cartas.
 
-**118-123** Que el Sol atrae a la Tierra a través del espacio
+**§118-§123** Que el Sol atrae a la Tierra a través del espacio
 vacío intermedio, o sea, que el Sol y la Tierra gravitan el uno
 hacia el otro, o tienden (cualquiera que sea la causa de esa tendencia)
 el uno hacia el otro con una fuerza que está en proporción
@@ -180,7 +275,7 @@ lo retiene, pero si en algunos casos no es explicable mecánicamente
 ¿se sigue por este motivo que es falso el fenómeno mismo? Verdaderamente,
 es éste un argumento muy singular.
 
-**124-130** El fenómeno mismo, la atracción, la gravitación
+**§124-§130** El fenómeno mismo, la atracción, la gravitación
 o la mutua tendencia de los cuerpos (o cualquier otra denominación
 por la que se quiera llamar) y las leyes o proporciones de
 esta tendencia son suficientemente conocidas ahora por observaciones

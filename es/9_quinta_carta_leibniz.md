@@ -299,22 +299,52 @@ de las débiles contradicciones que se me oponen aquí.
 
 **27**
 
-Sobre 32
+Sobre §31
 
-**92** 
+**§89** La armonía o correspondencia entre alma y cuerpo
+no es un milagro perpetuo, sino el efecto o continuación de un
+milagro primigenio hecho en la creación de las cosas, como son
+todas las cosas naturales. Es verdad que es una maravilla perpetua
+como lo son muchas cosas naturales.
 
-Es cierto que, según mi teoría, el alma no perturba lasleyes del cuerpo, ni el cuerpo las del alma, y que solamente concuerdan;
-la primera actuando libremente, al seguir las leyes delas causas finales, y el segundo actuando mecánicamente, siguiendo
-las leyes de la causalidad eficiente. Pero eso no suprime lalibertad de nuestras almas, como se pretende aquí. Pues todoagente que actúa con elección de acuerdo con la causalidad finales libre, aunque ocurra que concuerde con aquel que no actúamás que por las causas eficientes, sin conocimiento o como unamáquina, porque Dios, previendo lo que haría la causa libre, haregulado primero su máquina de modo que no pueda dejar de concordar.
-M. Jaquelot[^10] ha resuelto muy bien esta dificultad en unode sus libros contra M. Bayle; pasaje ya citado en la *Teodicea*,part. I-63. Hablaré de ello más abajo, número 124.
+**90§** El término «armonía preestablecida» es un término técnico,
+lo confieso, pero no un término que no explique nada,
+puesto que está explicado muy inteligiblemente y a él no se
+opone nada que indique que haya dificultades.
+
+**91§** Como la naturaleza de cada sustancia simple, alma o
+verdadera mónada, es tal que su estado consecuente es efecto de
+su estado precedente, ésta es la causa de la total armonía resultante.
+Pues Dios sólo tiene que hacer que la sustancia simple sea una
+vez e inicialmente una representación del universo, según su punto
+de vista, ya que de esto sólo se sigue que así será perpetuamente,
+y que todas las sustancias simples tendrán siempre una
+armonía entre ellas porque representan siempre el mismo universo.
+
+Sobre §32
+
+**§92** Es cierto que, según mi teoría, el alma no perturba las
+leyes del cuerpo, ni el cuerpo las del alma, y que solamente concuerdan;
+la primera actuando libremente, al seguir las leyes de
+las causas finales, y el segundo actuando mecánicamente, siguiendo
+las leyes de la causalidad eficiente. Pero eso no suprime la
+libertad de nuestras almas, como se pretende aquí. Pues todo
+agente que actúa con elección de acuerdo con la causalidad final
+es libre, aunque ocurra que concuerde con aquel que no actúa
+más que por las causas eficientes, sin conocimiento o como una
+máquina, porque Dios, previendo lo que haría la causa libre, ha
+regulado primero su máquina de modo que no pueda dejar de concordar.
+M. Jaquelot[^10] ha resuelto muy bien esta dificultad en uno
+de sus libros contra M. Bayle; pasaje ya citado en la *Teodicea*,
+part. I-63. Hablaré de ello más abajo, número 124.
 
 [^10]: Se trata de *«Conformité de la Foi avec la Raison»*, Amsterdam,
 1705, de Isaac Jaquelot, protestante francés que respondió al *Diccionario*
 de Bayle con tres libros polémicos.
 
-Sobre 33
+Sobre §33
 
-**93** No admito que toda acción dé una fuerza nueva al objeto
+**§93** No admito que toda acción dé una fuerza nueva al objeto
 que la padece. Frecuentemente acontece en el choque de
 cuerpos que cada uno conserva su fuerza, como cuando dos cuerpos
 duros iguales concurren directamente. En este caso, sólo ha
@@ -322,7 +352,7 @@ cambiado la dirección sin que haya cambiado la fuerza, tomando
 cada uno de ellos la dirección del otro y regresando con la misma
 velocidad que había tenido.
 
-**94** Sin embargo, no he tenido cuidado al decir que sea sobrenatural
+**§94** Sin embargo, no he tenido cuidado al decir que sea sobrenatural
 dar una nueva fuerza a un cuerpo, pues reconozco que
 un cuerpo recibe a menudo una fuerza nueva de otro cuerpo que
 pierde otro tanto de la suya. Pero digo solamente que es sobrenatural
@@ -332,24 +362,24 @@ otro tanto. Es por lo que digo también que es insostenible que el
 alma dé fuerza al cuerpo, pues entonces todo el universo de los
 cuerpos recibiría una fuerza nueva.
 
-**95** El dilema que se propone aquí está mal fundado; según
+**§95** El dilema que se propone aquí está mal fundado; según
 mi teoría es necesario o que el hombre actúe sobrenaturalmente
 o que el hombre sea una pura máquina, como un reloj. Pero el
 hombre no actúa sobrenaturalmente y su cuerpo es verdaderamente
 una máquina y no obra si no es mecánicamente; pero su
 alma no deja de ser una causa libre.
 
-Sobre 34-35
+**Sobre §34-§35**
 
-**96** Me remito también a lo que ha sido o será dicho en
+**§96** Me remito también a lo que ha sido o será dicho en
 el presente escrito, números 82, 86, 88, 111, concerniente a la
 comparación entre Dios y el alma del mundo y a cómo la opinión
 que se opone a la mía hace aproximarse demasiado el uno a
 la otra.
 
-Sobre 42
+**Sobre §42**
 
-**107** Yo había sostenido que la operación de Dios, por la
+**§107** Yo había sostenido que la operación de Dios, por la
 cual reparase la máquina del mundo corporal dispuesta por su
 naturaleza (según se pretende) a caer en el reposo, sería un milagro.
 Se ha respondido que no sería una operación milagrosa porque
@@ -365,43 +395,43 @@ responde ahora que es llamar razón a la opinión vulgar. Pero yo
 replico que esta opinión vulgar, según la cual hay que evitar lo
 más posible al filosofar lo que sobrepasa la naturaleza de las criaturas,
 es muy razonable. De otro modo, nada será más fácil que
-dar razón de todo haciendo aparecer una divinad, *deum ex machina*,
+dar razón de todo haciendo aparecer una divinidad, *deum ex machina*,
 sin preocuparse de las naturalezas de las cosas.
 
-**108** Por otra parte, la opinión común de los teólogos no
+**§108** Por otra parte, la opinión común de los teólogos no
 debe ser tratada simplemente de opinión vulgar. Son necesarias
 grandes razones para atreverse a contravenirla y yo no veo aquí
 ninguna.
 
-**109** Parece que se apartan de su propia noción que exigiría
+**§109** Parece que se apartan de su propia noción que exigiría
 que el milagro fuera raro, reprochándome (aunque sin fundamento)
 sobre 31 que la armonía preestablecida sería un perpetuo
-milagro; a no ser que se haya querido razonar contra mí *ad
-hominem*.
+milagro; a no ser que se haya querido razonar contra mí *ad hominem*.
 
-Sobre 43
+**Sobre §43**
 
-**110** Si el milagro no difiere de lo natural más que en apariencia
+**§110** Si el milagro no difiere de lo natural más que en apariencia
 y con relación a nosotros, de manera que llamemos solamente
 milagro a lo que raramente observamos, no habrá diferencia
 interna real entre el milagro y lo natural; y en el fondo de
 las cosas todo será igualmente natural o todo será igualmente
 milagroso. ¿Tendrán los teólogos razones para acomodarse a lo
-primero y los filósofos a lo segundo?
+primero y los filósofos a lo segundo?.
 
-**111** Todo esto, ¿no acabará también por hacer de Dios el
+**§111** Todo esto, ¿no acabará también por hacer de Dios el
 alma del mundo si todas esas operaciones son tan naturales como
 las del alma sobre el cuerpo? Así, Dios será una parte de la naturaleza.
 
-**112** En buena filosofía y en sana teología hay que distinguir
+**§112** En buena filosofía y en sana teología hay que distinguir
 entre lo que es explicable por la naturaleza y las fuerzas de
 las criaturas, y lo que no es explicable sino por las fuerzas de la
 sustancia infinita. Hay que poner una distancia infinita entre la
 operación de Dios que va más allá de las fuerzas de la naturaleza
-y las operaciones de las cosas que siguen las leyes que Dios lesha dado y que las ha hecho capaces de continuar por su naturaleza,
+y las operaciones de las cosas que siguen las leyes que Dios les
+ha dado y que las ha hecho capaces de continuar por su naturaleza,
 aunque con su asistencia.
 
-**113** Es por ahí por donde fallan las atracciones propiamente
+**§113** Es por ahí por donde fallan las atracciones propiamente
 dichas y otras operaciones inexplicables por la naturaleza
 de las criaturas, que hay que hacer ejecutar por milagro, o recurrir
 a absurdos, es decir, a las cualidades de los escolásticos, que
@@ -413,7 +443,7 @@ glandibus vesci*[^11].
 una frase tomada de Cicerón —a través de los florilegios y preceptivas de la
 época— en *Orationes*, 31.
 
-**114** En los tiempos de M. Boyle y de otros hombres excelentes
+**§114** En los tiempos de M. Boyle y de otros hombres excelentes
 que florecieron en Inglaterra al comienzo del reinado de
 Carlos II, no habrían osado ofrecernos nociones tan burdas. Espero
 que esos bellos tiempos volverán bajo tan buen gobierno
@@ -435,18 +465,20 @@ en 1656.
 volúmenes publicada entre 1669 y 1673 por Antón Ulrich, señor de
 Braunschweig-Wolfenbüttel.
 
-**115** En cuanto a los movimientos de los cuerpos celestes,y más aún en cuanto a la formación de las plantas y de los animales,
-no hay nada de milagroso, exceptuado el comienzo de estascosas. El organismo de los animales es un mecanismo que supone
+**§115** En cuanto a los movimientos de los cuerpos celestes,
+y más aún en cuanto a la formación de las plantas y de los animales,
+no hay nada de milagroso, exceptuado el comienzo de estas
+cosas. El organismo de los animales es un mecanismo que supone
 una preformación divina; lo que sigue es puramenta naturaly mecánico.
 
-**116** Todo lo que pasa en el cuerpo del hombre y de todo
+**§116** Todo lo que pasa en el cuerpo del hombre y de todo
 animal es tan mecánico como lo que ocurre en un reloj; la diferencia
 es sólo la que debe haber entre una máquina de invención
 divina y la producida por un obrero tan limitado como el hombre.
 
-Sobre 44
+**Sobre §44**
 
-**117** No hay ninguna dificultad para los teólogos con los
+**§117** No hay ninguna dificultad para los teólogos con los
 milagros de los ángeles. No se trata más que del uso de la palabra.
 Se puede decir que los ángeles hacen milagros, pero menos propiamente
 dichos, o de un orden inferior. Discutir sobre eso sería
@@ -456,48 +488,48 @@ de Bethesda hacía un milagro. Pero no era un milagro de primer
 orden, pues es explicable por las fuerzas naturales de los ángeles,
 superiores a las nuestras.
 
-Sobre 45
+**Sobre §45**
 
-**118** Yo había objetado que una atracción propiamente di-
-cha o de tipo escolástico sería una acción a distancia, sin medio.
-Se responde aquí que una atracción sin medio sería una contra-
-dicción; muy bien, pero ¿cómo entenderlo cuando se pretende
+**§118** Yo había objetado que una atracción propiamente dicha
+o de tipo escolástico sería una acción a distancia, sin medio.
+Se responde aquí que una atracción sin medio sería una contradicción;
+muy bien, pero ¿cómo entenderlo cuando se pretende
 que el sol a través de un espacio vacío atrae al orbe terrestre?
 ¿Es Dios quien sirve de medio? Entonces esto sería un milagro;
 si hubiera ocurrido alguna vez, sobrepasaría las fuerzas de las
 criaturas.
 
-**119** ¿O son quizás ciertas sustancias inmateriales, o ciertos
+**§119** ¿O son quizás ciertas sustancias inmateriales, o ciertos
 rayos espirituales, o algún accidente sin sustancia, alguna especie
 cuasi-intencional, o algún otro no sé qué quienes deben
 actuar como tal supuesto medio? Cosas éstas de las que parece
 haber *in mente* una buena provisión, pero sin suficiente explicación.
 
-**120** Ese medio de comunicación es (se dice) invisible, intangible,
+**§120** Ese medio de comunicación es (se dice) invisible, intangible,
 no mecánico. Con el mismo derecho se podría añadir:
 inexplicable, ininteligible, precario, sin fundamento, sin ejemplo.
 
-**121** Pero (se dice) es regular, constante y, en consecuencia,
+**§121** Pero (se dice) es regular, constante y, en consecuencia,
 natural. Yo respondo que no puede ser regular sin ser razonable
 y que no puede ser natural sin ser explicable por la naturaleza de
 las criaturas.
 
-**122** Si ese medio que ejerce una verdadera atracción es
+**§122** Si ese medio que ejerce una verdadera atracción es
 constante y al mismo tiempo inexplicable por las fuerzas de las
 criaturas y con todo eso es verdadero, entonces es un perpetuo
 milagro. Y si no es milagroso, entonces es falso. Es algo quimérico,
 una cualidad oculta escolástica.
 
-**123** Sería como en el caso de un cuerpo que girase sin
+**§123** Sería como en el caso de un cuerpo que girase sin
 separarse por la tangente, aunque nada explicable se lo impidiese.
 Ejemplo que ya he propuesto y a cuyo propósito no han hallado
 nada que poder responder, porque muestra demasiado evidentemente
 la diferencia entre lo natural verdadero, por una
 parte, y la cualidad oculta quimérica de las escuelas, por otra.
 
-Sobre 46
+**Sobre §46**
 
-**124** Las fuerzas naturales de los cuerpos están todas sometidas
+**§124** Las fuerzas naturales de los cuerpos están todas sometidas
 a las leyes mecánicas, y las fuerzas naturales de los espíritus
 están todas sometidas a las leyes morales. Las primeras
 siguen el orden de las causas eficientes y las segundas siguen el
@@ -507,7 +539,7 @@ relación exacta con esa especie de reloj que otra causa libre superior
 ha colocado en acuerdo con ellas anteriormente. Ya he
 hablado de esto aquí, número 92.
 
-**125** Termino por un tema que se me opuso al principio de
+**§125** Termino por un tema que se me opuso al principio de
 la cuarta carta y del que ya he hablado más arriba, números 18,
 19, 20; pero me he reservado el decir aún algunas cosas para
 concluir. Se ha pretendido primeramente que cometo una petición
@@ -521,11 +553,11 @@ con él en el segundo punto de la tercera carta, quizá porque hubiera
 parecido demasiado chocante negarlo. Pero o no lo estaban
 más que de palabra, o se contradicen, o se retractan.
 
-**126** Me atrevo a decir que sin ese gran principio no se podría
+**§126** Me atrevo a decir que sin ese gran principio no se podría
 llegar a la prueba de la existencia de Dios ni dar razón de
 otras varias verdades importantes.
 
-**127** ¿No se ha valido de él todo el mundo en mil ocasiones?
+**§127** ¿No se ha valido de él todo el mundo en mil ocasiones?
 Es cierto que, por negligencia, se ha olvidado en otras muchas,
 pero ahí reside justamente el origen de las quimeras como,
 por ejemplo, las de un tiempo y un espacio obsolutos reales, la
@@ -534,14 +566,14 @@ la de la influencia física entre el alma y el cuerpo y mil ficciones
 más, tanto de las que perviven de la falsa persuasión de los antiguos
 como de las que se han inventado recientemente.
 
-**128** ¿No es debido a la violación de ese gran principio por
+**§128** ¿No es debido a la violación de ese gran principio por
 lo que los antiguos se burlaron ya de la declinación sin objeto de
 los átomos de Epicuro? Me atrevo a decir que la atracción de tipo
 escolástico que se revive hoy y de la que se reían también hace
 también aproximadamente treinta años no tiene mucho más de
 razonable.
 
-**129** A menudo he desafiado a las gentes a ofrecerme un
+**§129** A menudo he desafiado a las gentes a ofrecerme un
 ejemplo contra este gran principio, un ejemplo indiscutible donde
 el principio falle, pero jamás se ha podido y jamás se podrá.
 Sin embargo, hay infinidad de casos en que tiene éxito, o incluso
@@ -552,7 +584,7 @@ de acuerdo con la máxima de la filosofía experimental que procede
 *a posteriori*; incluso en el caso de que no esté justificado
 por la pura razón o *a priori*.
 
-**130** Negarme ese gran principio es hacer también como
+**§130** Negarme ese gran principio es hacer también como
 Epicuro, obligado también a negar ese otro gran principio que
 es el de contradicción, a saber, que todo enunciado inteligible
 debe ser o verdadero o falso. Crisino[^14] se divertía probándolo

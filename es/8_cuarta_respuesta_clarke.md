@@ -284,16 +284,16 @@ sobrenatural y está completamente excluida del gobierno del
 mundo natural y, o cada hecho del hombre es sobrenatural o, si
 no, éste es una mera máquina como lo es un reloj.
 
-**34 y 35** La diferencia entre la verdadera idea de Dios y la
+**§34 y §35** La diferencia entre la verdadera idea de Dios y la
 de espíritu del mundo ha sido mostrada anteriormente (carta
 2da. , 12, y en esta carta, 29 y 32).
 
-**36** Esto ha sido contestado exactamente más arriba (31).
+**§36** Esto ha sido contestado exactamente más arriba (31).
 
-**37** El espíritu no está extendido por todo el cerebro, sino
+**§37** El espíritu no está extendido por todo el cerebro, sino
 que está presente en aquel lugar particular que es el *sensorio*.
 
-**38** Sin pruebas, ésta es una afirmación vacía. Dos cuerpos
+**§38** Sin pruebas, ésta es una afirmación vacía. Dos cuerpos
 no elásticos, que se encuentran con fuerzas iguales y contrarias,
 ambos pierden su movimiento. Y Sir Isaac Newton (en la página
 341 de la edición latina de su Optica) ha dado un ejemplo
@@ -301,17 +301,17 @@ matemático en donde el movimiento está continuamente disminuyendo
 o aumentando en cantidad, sin comunicar nada de eso
 a otros cuerpos.
 
-**39** Esto no es un defecto, como aquí se supone, sino que
+**§39** Esto no es un defecto, como aquí se supone, sino que
 es la justa y propia naturaleza de la materia inerte.
 
-**40** Este argumento (si es válido) prueba que el mundo material
+**§40** Este argumento (si es válido) prueba que el mundo material
 debe ser infinito, que debe haber existido desde siempre,
 que debe seguir hasta la eternidad y que Dios debe haber creado
 siempre tantos hombres y tantas otras cosas como le haya sido
 posible y también durante tan largo tiempo como haya sido
 posible para él.
 
-**41** No entiendo lo que con estas palabras se quiere decir:
+**§41** No entiendo lo que con estas palabras se quiere decir:
 *un orden* (o situación) *que hace que los cuerpos sean situables*.
 Esto me parece que equivale a que la situación es causa de la
 situación. Se ha mostrado antes, carta 3ra., 2 y 4, que el espacio
@@ -323,15 +323,16 @@ otras, porque la cantidad de tiempo puede ser mayor o menor y,
 sin embargo, este orden sigue siendo el mismo. El orden de las
 cosas sucediéndose en el tiempo no es el tiempo mismo, pues
 pueden sucederse más rápida o más lentamente en el mismo orden
-de sucesión, pero no en el mismo tiempo. Si no existierancriaturas, la omnipresencia de Dios y la continuidad de su existencia
+de sucesión, pero no en el mismo tiempo. Si no existieran
+criaturas, la omnipresencia de Dios y la continuidad de su existencia
 harían, sin embargo, al espacio y a la duración ser exactamente
 los mismos que son ahora.
 
-**42** Esto es descender desde la razón hasta la opinión vulgar,
+**§42** Esto es descender desde la razón hasta la opinión vulgar,
 lo cual no deberían hacer los filósofos, porque no es el método
 para alcanzar la verdad.
 
-**43** Lo extraño está necesariamente incluido en la idea de
+**§43** Lo extraño está necesariamente incluido en la idea de
 milagro. Por otra parte, no hay nada más hermoso, ni que requiera
 ejercer un poder mayor, que algunas de aquellas cosas que
 llamamos naturales. Tales como los movimientos de los cuerpos
@@ -344,11 +345,11 @@ corrientes. De tal género son los eclipses, los partos monstruosos,
 la locura de los hombres e innumerables cosas que el
 vulgo llama prodigios.
 
-**44** Esto es una concesión de lo que he afirmado. Sin embargo,
+**§44** Esto es una concesión de lo que he afirmado. Sin embargo,
 es contrario a la opinión de los teólogos suponer que un
 ángel puede hacer un milagro.
 
-**45** Verdaderamente no sería un milagro, sino una contradicción,
+**§45** Verdaderamente no sería un milagro, sino una contradicción,
 el que un cuerpo atrajera a otro sin tener medio alguno
 para ello. Pero esto sucede en la hipótesis de que algo obre donde
 no está. Pero el medio por el que dos cuerpos se atraen el uno
@@ -358,7 +359,7 @@ bien puede ser llamado natural, siendo mucho menos maravilloso
 que los movimientos animales, de los que, no obstante,
 nunca se dice que sean milagrosos.
 
-**46** Si la expresión «fuerzas naturales» significa aquí mecánicas,
+**§46** Si la expresión «fuerzas naturales» significa aquí mecánicas,
 entonces los animales, e incluso los hombres, son, como lo
 es un reloj, simples máquinas. Pero si la expresión no significa
 fuerzas mecánicas, entonces la gravitación puede ser producida
