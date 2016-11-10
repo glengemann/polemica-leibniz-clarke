@@ -103,7 +103,103 @@ veces puede encontrar razones para suspender sus resoluciones.
 Pero ¿no son precisamente estas razones el último juicio
 del entendimiento práctico?.
 
-**107-109** Afirmé que, con respecto a Dios, ninguna cosa
+**§99** En orden a mostrar que las fuerzas activas en el mundo
+(lo que significa la cantidad de movimiento o fuerza impulsiva
+dada a los cuerpos) no disminuye naturalmente, sostiene este
+sabio autor que, al chocar dos cuerpos flexibles y no elásticos con
+fuerzas iguales y contrarias, por esta sola razón pierden cada uno
+de ellos el movimiento de su todo, porque se comunica y dispersa
+en los movimientos de sus partes pequeñas. Pero la pregunta
+es: cuando pierden todo su movimiento por chocar entre
+sí dos cuerpos perfectamente duros y no clásicos, ¿qué ocurre
+entonces con el movimiento o fuerza activa impulsiva? No puede
+dispersarse entre las partes, porque éstas no son capaces de tener
+un movimiento trémulo por falta de elasticidad. Y si se niega que
+los cuerpos pierdan el movimiento de su todo, respondo que se
+seguiría entonces que los cuerpos duros y elásticos retrocederían
+con una fuerza doble, a saber, la fuerza procedente de la elasticidad
+y además toda (o por lo menos una parte de) la fuerza original
+directa, lo cual es contrario a la experiencia.
+
+Al fin (a propósito de la demostración que cité de Sir Isaac
+Newton) (número 99) se ha visto obligado a admitir que la cantidad
+de movimiento en el mundo no es siempre la misma; y
+busca otra salida, la de decir que el movimiento y la fuerza no
+siempre son los mismos en cantidad. Pero esto también es contrario
+a la experiencia. Pues la fuerza mencionada aquí no es la
+*vis inertiae*[^6] de la materia (la cual sigue siendo en verdad siempre
+la misma mientras lo siga siendo la cantidad de materia),
+sino que fuerza, aquí es fuerza relativa, activa e impulsiva, la cual
+es siempre proporcional a la cantidad de movimiento relativo[^7],
+como se manifiesta constantemente en la experiencia, excepto
+cuando se comete algún error por no calcular correctamente y
+restar la fuerza contraria o que se opone, la cual procede de la
+resistencia de los fluidos a los cuerpos que se mueven de cualquier
+modo, así como de la acción continua y contraria de la gravitación
+sobre los cuerpos impelidos hacia arriba.
+
+[^6]:
+
+[^7]:
+
+**§100-§102** Se ha mostrado en el párrafo anterior que la fuerza
+activa, en el sentido definido arriba, disminuye continua y
+naturalmente en el universo material. Es evidente que esto no es
+un defecto, puesto que solamente es una consecuencia de la materia
+inanimada, sin potencia motriz, inactiva e inerte. Pero la
+inercia de la materia no solamente hace (como observa este sabio
+autor) que decrezca la velocidad en proporción a como aumente
+la cantidad de materia (la cual no decrece en verdad por la cantidad
+de movimiento), sino también que, al chocar con fuerzas
+iguales y contrarias, dos cuerpos sólidos y perfectamente duros e
+inelásticos pierdan todo su movimiento y fuerza activa (como se
+ha demostrado arriba) y hayan de depender de alguna otra causa
+para tener un nuevo movimiento.
+
+**§103** He probado suficientemente en mis cartas anteriores
+que nada de lo referido aquí es erróneo. ¿Por qué no iba Dios
+a ser libre para crear un mundo que permaneciera con la misma
+forma actual un tiempo tan extenso o tan corto como le pareciera,
+y que después fuera convertido en cualquier otra forma que
+hubiera querido (mediante cambios que tal vez sean prudentes o
+adecuados y, sin embargo, tal vez imposibles de ser reducidos a
+un mecanismo)?.
+
+Estoy deseando dejar a los doctos que cotejen las cartas que
+juzguen si mi deducción, a partir de la afirmación (carta 4ta. , números
+40, 20, 21, 22, y carta 5ta., número 29) de este erudito autor
+de que el universo no puede disminuir en perfección, de que
+no hay razón posible por la que se pueda limitar la cantidad de
+materia, de que las perfecciones de Dios (véase más arriba el
+*post scriptum* de Leibniz a su 4ta. carta) le obligan a crear tanta
+materia como pueda y de que un universo finito y material es una
+ficción imposible, que juzguen, digo, si mi deducción de que (de
+acuerdo con estas ideas) el mundo debe necesariamente haber
+sido infinito y eterno, es una deducción justa o no.
+
+**§104-§106** Acabamos de decir (número 104) que el espacio
+no es un orden o situación, sino un orden de situaciones. Pero
+queda todavía la objeción de que un orden de situaciones no es
+una cantidad, como lo es el espacio. Por eso se remite a 54, donde
+cree que ha probado que el orden es una cantidad. Y yo me
+remito a lo que he dicho en esta carta más arriba, sobre esa sección,
+donde creo que he probado que no es una cantidad. Lo que
+afirma concerniente también al tiempo (número 105) lleva simplemente
+al siguiente absurdo: que el tiempo es solamente el
+orden de lo que se sucede y, no obstante, verdaderamente es una
+cantidad, porque no solamente es el orden de lo que se sucede,
+sino también la cantidad de duración que se extiende entre cada
+uno de los individuos que se suceden en ese orden. Lo cual es
+una contradicción manifiesta.
+
+Decir que la inmensidad (número 106) no significa espacio
+ilimitado y que la eternidad no significa duración o tiempo sin
+principio ni fin es (creo) afirmar que las palabras no tienen sentido.
+En vez de razonar sobre este punto, se nos remite a lo que
+han mantenido teólogos y filósofos que fueron de la opinión de
+este erudito autor. Y ése no es el asunto de que se trata.
+
+**§107-§109** Afirmé que, con respecto a Dios, ninguna cosa
 posible es más milagrosa que otra y que, por eso, un milagro no
 consiste en la dificultad ofrecida por la naturaleza para hacerlo,
 sino simplemente en lo desacostumbrado de que Dios lo haga.
